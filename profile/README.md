@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://www.bath.ac.uk/departments/department-of-electronic-electrical-engineering/">
-    <img src="../images/Bath_EE Logo.jpg" alt="Logo">
+    <img src="../images/Bath_EE Logo.jpg" alt="Logo" style="width:300px; height:auto;>
   </a>
   <h1>Welcome Page of Power Group</h1>
   <p align="left">
