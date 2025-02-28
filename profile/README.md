@@ -69,6 +69,6 @@
 
 
 <!-- Tutorial for Github Desktop -->
-## Tutorial for Github Desktop
-Please refer to this repository: [Github Tutorial for Power Group](https://github.com/BathPowerGroup/Github-Tutorial)
+## Tutorial for Git/Github/GithubDesktop
+Please refer to this repository: [Git Tutorial for Power Group](https://github.com/BathPowerGroup/Github-Tutorial)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
