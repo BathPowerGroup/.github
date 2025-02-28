@@ -32,7 +32,7 @@
     This is an introduction page for the power group from University of Bath. Everyone in the group is eligible to upload their own files/models/projects to this organization space.
     <br />
     <br />
-    We may also modify this page in the future to make it more formal for outsiders.
+    We may also modify this page in the future to make it more formal to outsiders.
   </p>
 </div>
 
@@ -70,5 +70,5 @@
 
 <!-- Tutorial for Github Desktop -->
 ## Tutorial for Github Desktop
-Please refer to this space: [Github Tutorial for Power Group](https://github.com/BathPowerGroup/Github-Tutorial)
+Please refer to this repository: [Github Tutorial for Power Group](https://github.com/BathPowerGroup/Github-Tutorial)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
